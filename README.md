@@ -1,4 +1,9 @@
 ### Hi, I'm Thiago Pê Borges
+👨‍💻 I'm currently working with frontend
+
+💻 improving my knowledge in React
+
+🏎️ crazy about cars and games
 ##
 <div align="center">
   <a href="https://github.com/IDarkLoad">
