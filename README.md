@@ -1,7 +1,5 @@
 ### Hi, I'm Thiago Pê Borges
-👨‍💻 I'm currently working with frontend
-
-💻 improving my knowledge in React
+👨‍💻 I'm currently working with fullstack
 
 🏎️ crazy about cars and games
 ##
