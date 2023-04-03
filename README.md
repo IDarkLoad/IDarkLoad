@@ -1,4 +1,4 @@
-### Hi, I'm Thiago Pê Borges
+### Hi, I'm Thiago Pê Borges, and I'm from Brazil
 👨‍💻 I'm currently working with fullstack
 
 🏎️ crazy about cars and games
